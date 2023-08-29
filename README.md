@@ -1,4 +1,4 @@
-# Carolyn Stransky
+# Chris Hewitson
 
 _Software engineer and journalist based in Berlin 🇩🇪_ <br>
 
