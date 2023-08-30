@@ -2,7 +2,7 @@
 
 _Postdoctoral Associate in Cognitive Science - Yale Department of Psychology_ <br>
 
-[Email](mailto:christopher.hewitson@yale.edu) / [LinkedIn](https://www.linkedin.com/in/carolstran/) / [GitHub](https://github.com/hewitsonchris/)
+[Email](mailto:christopher.hewitson@yale.edu) / [LinkedIn](https://au.linkedin.com/in/chris-hewitson-b77b11200) / [GitHub](https://github.com/hewitsonchris/)
 
 ## 👩🏼‍💻 Engineering Experience
 
