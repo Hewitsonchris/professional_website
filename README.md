@@ -4,9 +4,9 @@ _Postdoctoral Associate in Cognitive Science - Yale Department of Psychology_ <b
 
 [Email](mailto:christopher.hewitson@yale.edu) / [LinkedIn](https://au.linkedin.com/in/chris-hewitson-b77b11200) / [GitHub](https://github.com/hewitsonchris/)
 
-## 👩🏼‍💻 Engineering Experience
+## 🧠 Reasearch
 
-**Frontend Engineer** @ [BRYTER](https://bryter.com/) _(Dec 2020 - Present)_ <br>
+**Postdoctoral Associate** @ [ACTLAB](http://actcompthink.org/)) _(April 2021 - Present)_ <br>
 No-code platform that enables professionals to build interactive applications.
   - Founding member of BRYTER's design system team and continued to provide support and extend the component library
   - Wrote code in multiple architecture layers, including the application core and integrations with external services
