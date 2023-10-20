@@ -46,5 +46,29 @@ _Postdoctoral Associate in Cognitive Science - Yale Department of Psychology_ <b
 
 
 ## 🎓 Education
+**PhD in Cognitive Science**
+*Macquarie University* (2017 – 2021)
+- Thesis: Sensorimotor learning in complex and uncertain environments
+
+**MRES in Cognitive Science**
+*Macquarie University* (2016)
+- Thesis: Investigating Interlimb Generalisation of Bayesian Sensorimotor Learning
+
+**BA(Hons) in Philosophy of Cognitive Science**
+*Adelaide University* (2014 – 2015)
+- Thesis: Eliasmith’s Account of Mental Representation: A Peircean-inspired Analysis
+
+**MTEACH in Middle and Secondary Education**
+*University of South Australia* (2010 – 2011)
+
+**BA in Philosophy of Mind**
+*Adelaide University* (2007 – 2008)
+
+**BSc(Hons) Pharmacology**
+*Flinders University* (2005 – 2006)
+- Thesis: Acute effects of haemodialysis on biochemical modulators of endothelial function
+
+**BTECH in Pharmacology and Molecular Synthesis**
+*Flinders University* (2002 – 2005)
 
 **
