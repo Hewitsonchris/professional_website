@@ -6,13 +6,10 @@ _Postdoctoral Associate in Cognitive Science - Yale Department of Psychology_ <b
 / [CV](https://github.com/Hewitsonchris/professional_website/raw/main/2021_CV%20%281%29.pdf) / [Research Statement](https://github.com/Hewitsonchris/professional_website/raw/main/Teaching_and_Research_Statement.pdf)
 
 
-
-
-
-
 ## 🧠 Reasearch
 
 **Postdoctoral Associate** @ [ACTLAB](http://actcompthink.org/) _(April 2021 - Present)_ <br>
+  
   **_Research Aims:_**
   - Investigating the effects of sensory uncertainty on motor learning and motor control
   - Investigating the behavioural and neural markers of motor expertise (Principally Minimally Invasive Surgeons)
