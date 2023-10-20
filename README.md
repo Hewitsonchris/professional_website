@@ -17,13 +17,14 @@ _Postdoctoral Associate in Cognitive Science - Yale Department of Psychology_ <b
   - Educational psychology, motor-learning and pedagogy
     
   **_Technologies used:_**
-     - Visuomotor and dynamic adaptation paradigms using KINARM endpoint robot, tablet-based rig, online projects and VR
-     - KINARM paradigms built in MATLAB and Simulink
-     - VMR rig paradigms built in Octave and javascript.
-     - VR paradigms built in blender and Unreal Engine
-     - Online paradigms built in javascript and html
-       --Data analysis in MATLAB, R, and Python
-       -- Modelling using LSTM's and SVM's (MATLAB and python) 
+  - Visuomotor and dynamic adaptation paradigms using KINARM endpoint robot, tablet-based rig, online projects, and VR
+  - KINARM paradigms built in MATLAB and Simulink
+  - VMR rig paradigms built in Octave and JavaScript
+  - VR paradigms built in Blender and Unreal Engine
+  - Online paradigms built in JavaScript and HTML
+  - Data analysis in MATLAB, R, and Python
+  - Modelling using LSTM's and SVM's (MATLAB and Python)
+  
        
 <br><br>
 
