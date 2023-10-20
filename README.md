@@ -46,29 +46,65 @@ _Postdoctoral Associate in Cognitive Science - Yale Department of Psychology_ <b
 
 
 ## 🎓 Education
-**PhD in Cognitive Science**
-*Macquarie University* (2017 – 2021)
+**2017 – 2021**
+*PhD in Cognitive Science*
+*Macquarie University*
 - Thesis: Sensorimotor learning in complex and uncertain environments
 
-**MRES in Cognitive Science**
-*Macquarie University* (2016)
+**2016**
+*MRES in Cognitive Science*
+*Macquarie University*
 - Thesis: Investigating Interlimb Generalisation of Bayesian Sensorimotor Learning
 
-**BA(Hons) in Philosophy of Cognitive Science**
-*Adelaide University* (2014 – 2015)
+**2014 – 2015**
+*BA(Hons) in Philosophy of Cognitive Science*
+*Adelaide University*
 - Thesis: Eliasmith’s Account of Mental Representation: A Peircean-inspired Analysis
 
-**MTEACH in Middle and Secondary Education**
-*University of South Australia* (2010 – 2011)
+**2010 – 2011**
+*MTEACH in Middle and Secondary Education*
+*University of South Australia*
 
-**BA in Philosophy of Mind**
-*Adelaide University* (2007 – 2008)
+**2007 – 2008**
+*BA in Philosophy of Mind*
+*Adelaide University*
 
-**BSc(Hons) Pharmacology**
-*Flinders University* (2005 – 2006)
+**2005 – 2006**
+*BSc(Hons) Pharmacology*
+*Flinders University*
 - Thesis: Acute effects of haemodialysis on biochemical modulators of endothelial function
 
-**BTECH in Pharmacology and Molecular Synthesis**
-*Flinders University* (2002 – 2005)
+**2002 – 2005**
+*BTECH in Pharmacology and Molecular Synthesis*
+*Flinders University*
+
+## 🏆 Awards, Honours and Grants
+
+**2022 – Present**
+*Yale University*
+- Seesel Endowed Postdoctoral Fellowship
+- ACT lab, Wu Tsai Institute, Yale University, adviser Samuel Mcdougle.
+
+**2019 – 2020**
+*Macquarie University*
+- Competitive Post Graduate research fund recipient
+- Partitioning Feedforward from Feedback Components of Bayesian Sensorimotor Learning: SFN 2019, Chicago.
+- Lab visit with Associate Professor Jordan Taylor at the Princeton Neuroscience Institute, New Jersey.
+
+**2018 – 2019**
+*Macquarie University*
+- Centre of Excellence in Cognition and its Disorders: Student exchange scheme grant recipient
+- Investigating the implicit vs explicit components of Bayesian motor learning.
+- Lab visit with Professor Timothy Carroll at the Human Motor Control Lab, University of Queensland.
+
+**2017 – 2020**
+*Macquarie University*
+- Centre of Excellence in Cognition and its Disorders: Neural markers training scheme grant recipient
+- Investigating the neural mechanisms underlying Bayesian sensorimotor learning using transcranial magnetic stimulation.
+
+**2014 – 2015**
+*Flinders University Department of Computer Science, Engineering, and Mathematics*
+- Summer intern Scholarship
+- Development of neural network architecture in Java.
 
 **
