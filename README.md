@@ -12,7 +12,7 @@ _Postdoctoral Associate in Cognitive Science - Yale Department of Psychology_ <b
 
 ## 🧠 Reasearch
 
-**Postdoctoral Associate** @ [ACTLAB](http://actcompthink.org/)) _(April 2021 - Present)_ <br>
+**Postdoctoral Associate** @ [ACTLAB](http://actcompthink.org/) _(April 2021 - Present)_ <br>
   **_Research Aims:_**
   - Investigating the effects of sensory uncertainty on motor learning and motor control
   - Investigating the behavioural and neural markers of motor expertise (Principally Minimally Invasive Surgeons)
