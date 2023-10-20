@@ -79,7 +79,6 @@ _Postdoctoral Associate in Cognitive Science - Yale Department of Psychology_ <b
 *Flinders University*
 
 ## 🏆 Awards, Honours and Grants
-
 **2022 – Present**
 *Yale University*
 - Seesel Endowed Postdoctoral Fellowship
@@ -107,4 +106,3 @@ _Postdoctoral Associate in Cognitive Science - Yale Department of Psychology_ <b
 - Summer intern Scholarship
 - Development of neural network architecture in Java.
 
-**
