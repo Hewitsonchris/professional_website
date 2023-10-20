@@ -2,7 +2,7 @@
 
 _Postdoctoral Associate in Cognitive Science - Yale Department of Psychology_ <br>
 
-[Email](mailto:christopher.hewitson@yale.edu) / [LinkedIn](https://au.linkedin.com/in/chris-hewitson-b77b11200) / [GitHub](https://github.com/hewitsonchris/), [CV](https://githubusercontent.com/hewitsonchris/professional_website/main/2021_CV(1).pdf)
+[Email](mailto:christopher.hewitson@yale.edu) / [LinkedIn](https://au.linkedin.com/in/chris-hewitson-b77b11200) / [GitHub](https://github.com/hewitsonchris/), [CV](https://githubusercontent.com/hewitsonchris/professional_website/blob/main/2021_CV(1).pdf)
 
 
 
