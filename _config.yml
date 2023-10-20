@@ -3,6 +3,6 @@ description: Chris' website
 style: |
   <style>
     body {
-      margin: 10px; /* Adjust the margin size as needed */
+      margin: 1px; /* Adjust the margin size as needed */
     }
   </style>
