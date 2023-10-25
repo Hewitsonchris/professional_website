@@ -3,6 +3,16 @@ description: Chris' website
 style: |
   <style>
     body {
-      margin: 1px; /* Adjust the margin size as needed */
+      background-color: black;
+      color: white;
+      font-family: Arial, sans-serif;
+      line-height: 1.6;
+      margin: 0;
+      padding: 2rem;
+    }
+
+    a {
+      color: white;
     }
   </style>
+
