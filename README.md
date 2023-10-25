@@ -7,7 +7,7 @@ _Postdoctoral Associate in Cognitive Science - Yale Department of Psychology_ <b
 
 
 
-## 🧠 Reasearch
+## 🧠 Research
 
 **Postdoctoral Associate** @ [ACTLAB](http://actcompthink.org/) _(April 2022 - Present)_ <br>
   
