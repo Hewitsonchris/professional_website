@@ -1,3 +1,23 @@
+<!DOCTYPE html>
+<html>
+<head>
+<style>
+  body {
+    background-color: black;
+    color: white;
+    font-family: Arial, sans-serif;
+    line-height: 1.6;
+    margin: 0;
+    padding: 2rem;
+  }
+
+  a {
+    color: white;
+  }
+</style>
+</head>
+<body>
+
 # Chris Hewitson
 
 _Postdoctoral Associate in Cognitive Science - Yale Department of Psychology_ <br>
