@@ -43,7 +43,7 @@ _Postdoctoral Associate in Cognitive Science - Yale Department of Psychology_ <b
 - Hewitson, C. L., Crossley, M. J., & Kaplan, D. M. (2021). Effects of visuomotor perturbations on motor performance in minimally invasive surgery: A theoretically-oriented review. *Annals of Surgery.*
 - Gillett, A., Whyte, C., Hewitson, C. L., & Kaplan, D. M. (2021). Defending the viability of the mutual manipulability criterion in the extended cognition debate: A reply to Baumgartner et al. In *Philosophical Psychology.*
 - Hewitson, C. L., Shukur, S. T., Cartmill, J., Crossley, M., & Kaplan, D. M. (2021). Camera counter-rotation imposes a cost on laparoscopic performance. *Scientific Reports, 11(17634).*
-- Hewitson, C. L., Kaplan, D. M., & Crossley, M. J. (2021). Feedback integration alters how sensory uncertainty modulates feedforward adaptation. In review.
+- Hewitson, C. L., Kaplan, D. M., & Crossley, M. J. (2023). Error-independent effect of sensory uncertainty on motor learning when both feedforward and feedback control processes are engaged.  *PLoS computational biology*
 
 
 ## 🎓 Education
