@@ -1,13 +1,26 @@
 # Chris Hewitson
 
-_Postdoctoral Associate in Cognitive Science - Yale Department of Psychology_ <br>
+_Researcher in Cognitive Science - Universität Tübingen_ <br>
 
-[Email](mailto:christopher.hewitson@yale.edu) / [Google Scholar Profile](https://scholar.google.com/citations?user=cf7nRM8AAAAJ&hl=en&oi=ao) / [LinkedIn](https://au.linkedin.com/in/chris-hewitson-b77b11200) / 
+[Email](mailto:christopher.hewitson@tuebingen.mpg.de) / [Google Scholar Profile](https://scholar.google.com/citations?user=cf7nRM8AAAAJ&hl=en&oi=ao) / [LinkedIn](https://au.linkedin.com/in/chris-hewitson-b77b11200) / 
 [GitHub](https://github.com/hewitsonchris/) / [CV](https://github.com/Hewitsonchris/professional_website/raw/main/2021_CV%20%281%29.pdf) / [Research&nbsp;Statement](https://github.com/Hewitsonchris/professional_website/raw/main/Teaching_and_Research_Statement.pdf)
 
 
 
 ## 🧠 Research
+
+**Researcher** @ [Bartels, A: Vision and Cognition Lab](https://uni-tuebingen.de/forschung/forschungsschwerpunkte/cin/arbeitsgruppen-alumni/arbeitsgruppen/bartels-a-vision-and-cognition/) _(September 2024 - Present)_ <br>
+  
+  **_Research Aims:_**
+  - Investigating the effects of visual illusion on motor learning and motor control
+  - Investigating the effect of semantic content on ego-motion in natural visual scenes
+    
+  **_Technologies used:_**
+  - Visuomotor and dynamic adaptation paradigms usingonline projects, and VR.
+  - Game-engine designed (Unity) 3D scenes in VR
+  - Online paradigms built in JavaScript and HTML
+  - Data analysis in MATLAB, R, and Python
+  - Modelling using LSTM's and SVM's (MATLAB and Python)
 
 **Postdoctoral Associate** @ [ACTLAB](http://actcompthink.org/) _(April 2022 - Present)_ <br>
   
@@ -43,7 +56,12 @@ _Postdoctoral Associate in Cognitive Science - Yale Department of Psychology_ <b
 - Hewitson, C. L., Crossley, M. J., & Kaplan, D. M. (2021). Effects of visuomotor perturbations on motor performance in minimally invasive surgery: A theoretically-oriented review. *Annals of Surgery.*
 - Gillett, A., Whyte, C., Hewitson, C. L., & Kaplan, D. M. (2021). Defending the viability of the mutual manipulability criterion in the extended cognition debate: A reply to Baumgartner et al. In *Philosophical Psychology.*
 - Hewitson, C. L., Shukur, S. T., Cartmill, J., Crossley, M., & Kaplan, D. M. (2021). Camera counter-rotation imposes a cost on laparoscopic performance. *Scientific Reports, 11(17634).*
-- Hewitson, C. L., Kaplan, D. M., & Crossley, M. J. (2023). Error-independent effect of sensory uncertainty on motor learning when both feedforward and feedback control processes are engaged.  *PLoS computational biology*
+- Hewitson, C. L., Kaplan, D. M., & Crossley, M. J. (2023).  Sensory uncertainty punctuates motor learning independently of movement error when both feedforward and feedback control processes are engaged.  *PLoS computational biology.*
+- Hewitson, C. L., Al-Fawakhiri, N., Forrence, A. D. & McDougle, S. D. (2023). Metacognitive Judgments during Visuomotor Learning Reflect the Integration of Error History. *JNeurophys.*
+- Hewitson, C. L., Kaplan, D. M. & Crossley, M. (2024). Sensorimotor learning under uncertainty: Emerging principles and open questions. *In review.*
+- Crossley, M. J., Hewitson, C. L. & Kaplan, D. M. (2024). Sensory uncertainty influences motor learning differently in blocked versus interleaved trial contexts when both feedforward and feedback processes are engaged. *In review.*
+- Crossley, M. J., Hewitson, C. L. & Kaplan, D. M. (2024). Context versus aiming in motor learning when both feedforward and feedback control processes are engaged. *In review.*
+- Hewitson, C. L., Kaplan, D. M. & Crossley, M. (2024). Sensorimotor challenges in minimally invasive surgery: A theoretically-oriented review. *Human Factors.*
 
 
 ## 🎓 Education
