@@ -3,7 +3,7 @@
 _Researcher in Cognitive Science - Universität Tübingen_ <br>
 
 [Email](mailto:christopher.hewitson@tuebingen.mpg.de) / [Google Scholar Profile](https://scholar.google.com/citations?user=cf7nRM8AAAAJ&hl=en&oi=ao) / [LinkedIn](https://au.linkedin.com/in/chris-hewitson-b77b11200) / 
-[GitHub](https://github.com/hewitsonchris/) / [CV](https://github.com/Hewitsonchris/professional_website/raw/main/2021_CV%20%281%29.pdf) / [Research&nbsp;Statement](https://github.com/Hewitsonchris/professional_website/raw/main/Teaching_and_Research_Statement.pdf)
+[GitHub](https://github.com/hewitsonchris/) / [CV](https://github.com/Hewitsonchris/professional_website/raw/main/2024_CV%20(2).pdf) / [Research&nbsp;Statement](https://github.com/Hewitsonchris/professional_website/raw/main/Teaching_and_Research_Statement.pdf)
 
 
 
